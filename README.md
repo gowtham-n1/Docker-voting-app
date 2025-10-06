@@ -91,4 +91,4 @@ Result Interface (Node.js app):
 Now that all containers are linked and communicating successfully, the next phase will be container orchestration using Docker Compose — making the setup easier and more scalable.
 
 🔗 Repository
-👉 GitHub: gowtham-n1/docker-voting-app
+👉 GitHub: gowtham-n1/Docker-voting-app
