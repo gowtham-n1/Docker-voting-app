@@ -21,10 +21,10 @@ Here, I deployed each container manually and linked them using Docker’s legacy
 
 # 1️⃣ Clone the repository
 ```shell
-git clone https://github.com/gowtham-n1/docker-voting-app.git/
+git clone https://github.com/gowtham-n1/Docker-voting-app.git/
 ```
 ```shell
-cd docker-voting-app/example-voting-app/
+cd Docker-voting-app/
 ```
 
 # 2️⃣ Start Redis
